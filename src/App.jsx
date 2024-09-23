@@ -18,6 +18,7 @@ const removeTour = (id) => {
     try {
       const response = await fetch(url)
       const tours = await response.json()
+      console.log(tours);
       setTours(tours);
     } catch (error) {
       console.log(error)

@@ -1,5 +1,7 @@
 ## Figma URL
 
+This project was built by following the **React course** by **John Smilga** on Udemy.
+
 [Tours](https://www.figma.com/file/OnLoM3AzBFaHzSc2iolJS0/Tours?node-id=0%3A1&t=wiRXOlTLN5ehekYI-1)
 
 ## Steps
